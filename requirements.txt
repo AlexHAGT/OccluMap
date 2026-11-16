@@ -1,0 +1,7 @@
+# OccluMap - dépendances (session 1 : mise en place et vérification des données)
+# PyTorch et Open3D seront ajoutés quand on en aura besoin.
+numpy
+scipy
+trimesh
+pyvista
+scikit-learn
