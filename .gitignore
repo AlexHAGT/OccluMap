@@ -1,4 +1,4 @@
-# --- Données, modèles, sorties : JAMAIS versionnés (CLAUDE.md, section 2) ---
+# --- Données, modèles, sorties : JAMAIS versionnés ---
 data/
 models/
 outputs/
@@ -33,5 +33,6 @@ Thumbs.db
 desktop.ini
 .DS_Store
 
-# --- Réglages locaux de Claude Code ---
-.claude/settings.local.json
+# --- Fichiers de Claude Code (restent en local) ---
+CLAUDE.md
+.claude/
